@@ -24,7 +24,7 @@ public class Aluno {
         this.nome = nome;
     }
 
-    public String getmatricula(){
+    public String getMatricula(){
         return this.matricula;
     }
 
